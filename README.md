@@ -2,7 +2,6 @@
 
 
 - 🔭 Estudante de Ciência da Computação
-- 🌱 Estudando Java, HTML, CSS, JavaScript
 
 <div align="center">
   <a href="https://github.com/FVSSANTOS">
