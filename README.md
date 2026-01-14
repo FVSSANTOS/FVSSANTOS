@@ -1,6 +1,6 @@
 # 👨‍💻 Flávio Vinícius da Silva Santos  
 
-**Desenvolvedor Full Stack | Java • JavaScript • React • Node.js**
+**Desenvolvedor Full Stack 
 
 Olá! 👋 Sou **Flávio Vinícius**, desenvolvedor full stack com experiência no desenvolvimento de aplicações **web e mobile**, utilizando **React, React Native, Node.js e Java (Spring Boot)**.  
 Tenho interesse em **arquitetura de software, automação de processos e soluções escaláveis**.  
