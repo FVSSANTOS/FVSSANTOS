@@ -1,7 +1,10 @@
-## Olá! Eu sou Flávio Vinícius 👋
+👨‍💻 Flávio Vinícius da Silva Santos
 
+Desenvolvedor Full Stack 
 
-- 🔭 Estudante de Ciência da Computação
+Olá! 👋 Sou Flávio Vinícius, desenvolvedor full stack com experiência no desenvolvimento de aplicações web e mobile, utilizando React, React Native, Node.js e Java (Spring Boot).
+Tenho interesse em arquitetura de software, automação de processos e soluções escaláveis.
+Busco sempre aprender novas tecnologias e contribuir com projetos que gerem impacto positivo e eficiência no dia a dia das pessoas.
 
 <div align="center">
   <a href="https://github.com/FVSSANTOS">
